@@ -3,4 +3,4 @@
 # unity-pactice!
 - First project practice with unity
 - Create a 2D game like flappy bird
-- Link download lastest buid: https://drive.google.com/file/d/1z1D9hRAIC5isOgF6v06elnDyJEDCpnqt/view?usp=drive_link 
+- Link download lastest buid: [ Window ](https://drive.google.com/drive/folders/1Rw2OznQovGyAHOelQqKfIqtpzoqWbzij?usp=drive_link)
